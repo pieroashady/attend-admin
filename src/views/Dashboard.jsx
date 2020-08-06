@@ -80,8 +80,8 @@ class Dashboard extends Component {
 		console.log('start', start.toDate());
 		console.log('finsih', finish.toDate());
 
-		query.equalTo('exclude', false);
-		//query.equalTo('roles', 'staff');
+		//query.equalTo('exclude', false);
+		query.equalTo('roles', 'staff');
 		query
 			.count()
 			.then((x) => {
