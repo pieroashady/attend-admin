@@ -13,7 +13,7 @@
 		"face-api.js": "^0.22.2",
 		"fast-sort": "^2.2.0",
 		"moment": "^2.26.0",
-		"node-sass": "4.13.1",
+		"node-sass": "7.0.0",
 		"parse": "^2.13.0",
 		"react": "16.8.6",
 		"react-bootstrap": "^1.0.1",
